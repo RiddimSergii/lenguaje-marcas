@@ -6,11 +6,11 @@
 			"mejoresCapitulos": [
 				{
 					"nombreCapitulo": "Elenco principal de Riverdale",
-					"id": 1,
+					"id": 1
 				},
 				{
 					"nombreCapitulo": "Prisioneros",
-					"id": 19,
+					"id": 19
 				}
 			],
 			"imagen": "https://static.wikia.nocookie.net/riverdale/images/5/52/Archie_-_T4_-_Portrait.jpg/revision/latest/top-crop/width/360/height/450?cb=20191015020803&path-prefix=es"
@@ -21,11 +21,11 @@
 			"mejoresCapitulos": [
 				{
 					"nombreCapitulo": "El dulces más allá",
-					"id": 13,
+					"id": 13
 				},
 				{
 					"nombreCapitulo": "Anatomía de un Asesino",
-					"id": 12,
+					"id": 12
 				}
 			],
 			"imagen": "https://static.wikia.nocookie.net/riverdale/images/1/19/RD-S5-Betty-Cooper.jpg/revision/latest?cb=20210323065005&path-prefix=es"
@@ -36,7 +36,7 @@
 			"mejoresCapitulos": [
 				{
 					"nombreCapitulo": "El juicio",
-					"id": 23,
+					"id": 23
 				},
 				{
 					"nombreCapitulo": "Fighty-eight in Memoriam",
