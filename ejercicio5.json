@@ -1,0 +1,35 @@
+{
+	"nombreCiudad": "Badajoz",
+	"dias": [
+		{
+			"dia": 12,
+			"temperatura": 22,
+			"viento": "14 km/h",
+			"estado": {
+					"nombreEstado": "despejado",
+					"imagen": "https://image.flaticon.com/icons/png/512/25/25019.png"
+				}
+			
+		},
+		{
+			"dia": 13,
+			"temperatura": 23,
+			"viento": "8 km/h",
+			"estado": {
+					"nombreEstado": "despejado",
+					"imagen": "https://image.flaticon.com/icons/png/512/25/25019.png"
+				}
+			
+		},
+		{
+			"dia": 14,
+			"temperatura": 24,
+			"viento": "12 km/h",
+			"estado": {
+					"nombreEstado": "nublado",
+					"imagen": "https://img.icons8.com/ios/452/clouds.png"
+				}
+			
+		}
+	]
+}
